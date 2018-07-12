@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 12, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Emily Knapik)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I learned how to complete a photo gallery application in cloud 9 and git hub.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (A lesson I learned in this assignment was how to access elements by id, class or name selector.)
+2. (Another lesson I learned in this assignment was how to add and remove document nodes, which was very interesting and helpful for this assignment specifically.)
+3. (Another lesson I learned was how to use different elements of a web page and computer such as location, history, or navigation to change the browser window.)
