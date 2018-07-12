@@ -13,8 +13,7 @@ Web Application Development
 (In this assignment, I learned how to complete a photo gallery application in cloud 9 and git hub.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://emilyknapik.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (A lesson I learned in this assignment was how to access elements by id, class or name selector.)
